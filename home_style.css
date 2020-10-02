@@ -1,0 +1,80 @@
+*{
+	margin: 0px;
+}
+
+.header{
+	background-color: green;
+	height: 120px;
+}
+
+.box{
+	background-color: black;
+	height: 550px;
+	width: 750px;
+	margin-top: 40px;
+}
+
+
+button{
+	width: 330px;    
+	height: 130px;   
+	text-align: center;
+	line-height: 15px;
+	font-size: 25px;	
+	
+	
+}
+
+.demo{	
+	left:620px;
+  	top:220px;
+  	
+}
+
+.demo a{	
+	color: black;
+	text-decoration: none;
+}
+
+.demo a:hover{	
+
+  	color: deepskyblue;
+}
+
+.demo1{	
+	left:620px;
+  	top:480px;
+}
+
+.demo1 a{	
+	color: black;
+	text-decoration: none;
+}
+
+.demo1 a:hover{	
+
+  	color: deepskyblue;
+}
+
+.demo2{	
+	left:620px;
+  	top:480px;
+}
+
+.demo2 a{	
+	color: black;
+	text-decoration: none;
+}
+
+.demo2 a:hover{	
+
+  	color: deepskyblue;
+}
+
+
+
+
+
+body{
+	background-color: black;
+}
